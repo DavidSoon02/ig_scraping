@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+package-lock.json
+package.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Output files
+*.csv
+reporte*.csv
+reporte*.xlsx
+reporte*.docx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.claude/
+.cache/

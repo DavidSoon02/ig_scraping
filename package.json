@@ -1,0 +1,19 @@
+{
+  "name": "ig_benford",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ig_scraper.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^24.30.0",
+    "docx": "^8.0.1"
+  }
+}
